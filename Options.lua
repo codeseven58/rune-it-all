@@ -325,7 +325,7 @@ local optionTable = {
       id = "runeType";
       headerText = "Rune Art Type";
       type = CONTROLTYPE_DROPDOWN;
-      defaultValue = "DEATH";
+      defaultValue = "Death";
       menuList = {
         {
           text = "Death";
